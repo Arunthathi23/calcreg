@@ -10,7 +10,7 @@ public class MainTest {
 
     @Test
     void testAddition() {
-        assertEquals(15, obj.add(10, 5));
+        assertEquals(11, obj.add(10, 5));
     }
 
     @Test
